@@ -13,6 +13,15 @@
     <span xml:lang="en">ChangeLog</span>
   </title>
 
+
+  <item>
+    <version>0.4.0-rc1</version>
+    <date><year>2003</year><month>09</month><day>03</day></date>
+    <change>Fixed all localizations</change>
+    <change>Fixed a rare segfault with empty partition table</change>
+    <change>Fixed configure script</change>
+    <change>Added debug log in /var/log (switch --log, default=1)</change>
+  </item>
   <item>
     <version>0.4.0-beta2</version>
     <date><year>2003</year><month>08</month><day>27</day></date>
