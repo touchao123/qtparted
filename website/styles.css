@@ -1,0 +1,236 @@
+BODY
+  {
+    font-family: "Arial, Helvetica", serif;
+    font-size: 13px;
+    text-decoration : none;
+    background-color: white;
+  }
+	
+p.menu
+  {
+    color: green;
+    font-weight: bold;
+    text-decoration: none;
+  }
+
+A:link
+  {
+    color: #00006F;
+    text-decoration: none;
+  }
+A:visited
+  {
+    color: #00006F;
+    text-decoration: none;
+  }
+A:hover
+  {
+    color: #00006F;
+    text-decoration: underline;
+  }
+
+.menuitem A
+  {
+    color: #00006F;
+    font-weight: bold;
+    text-decoration: none;
+  }
+.menuitem A:visited
+  {
+    color: #00006F;
+    font-weight: bold;
+    text-decoration: none;
+  }
+.menuitem A:hover
+  {
+    color: #00006F;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+.menulink A
+  {
+    color: #00006F;
+    font-weight: normal;
+    text-decoration: none;
+  }
+.menulink A:visited
+  {
+    color: #00006F;
+    font-weight: normal;
+    text-decoration: none;
+  }
+.menulink A:hover
+  {
+    color: #00006F;
+    font-weight: normal;
+    text-decoration: underline;
+  }
+.langflag A
+  {
+    color: green;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+  }
+.langflag A:visited
+  {
+    color: green;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+  }
+.langflag A:hover
+  {
+    color: green;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: none;
+  }
+
+
+td.menuleft
+  {
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    background-color: #CBB99C;
+  }
+
+td.banner
+  {
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    background-color: #9E8B75;
+  }
+
+td.links
+  {
+    color: red;
+    background-color: #CBB99C;
+    border-color: black;
+  }
+
+th.translang
+  {
+    border: 1px; 
+    border-style: solid;
+    border-color: black;
+    color: black;
+  }
+td.translang
+  {
+    border: 1px; 
+    border-style: solid;
+    border-color: black;
+    color: black;
+  }
+td.transnoone
+  {
+    border: 1px; 
+    border-style: solid;
+    border-color: black;
+    color: blue;
+  }
+td.transup2date
+  {
+    border: 1px; 
+    border-style: solid;
+    border-color: black;
+    color: black;
+  }
+td.transontheway
+  {
+    border: 1px; 
+    border-style: solid;
+    border-color: black;
+    color: green;
+  }
+
+table.main td
+  {
+    border-style: none;
+  }
+table.menu td
+  {
+    border-style: none;
+  }
+table.languages td
+  {
+    border-style: none;
+  }
+table.license td
+  {
+    border: 1px; 
+    border-style: solid;
+  }
+table.fs td
+  {
+    border: 1px; 
+    border-style: solid;
+  }
+table.fs th
+  {
+    border: 1px; 
+    border-style: solid;
+  }
+table.links td
+  {
+    border: 1px; 
+    border-style: solid;
+  }
+table.future td
+  {
+    border: 1px; 
+    border-style: solid;
+  }
+table.download td
+  {
+    border: 1px; 
+    border-style: solid;
+  }
+table.translations th
+  {
+    border: 1px; 
+    border-style: solid;
+  }
+table.translations td
+  {
+    border: 1px; 
+    border-style: solid;
+  }
+
+a.link
+  {
+    color: red;
+  }
+a.hover
+  {
+    color: red;
+  }
+a.visited
+  {
+    color: red;
+  }
+
+b
+  {
+    font-weight: bold;
+  }
+strong
+  {
+    font-weight: bold;
+  }
+.noir8
+  {
+    font-family: "Arial", serif;
+    font-size: 11px;
+    text-decoration: none;
+  }
+.rouge8
+  {
+    font-family: "Arial", serif;
+    font-size: 11px;
+    color: #BF0000;
+    text-decoration: none;
+  }

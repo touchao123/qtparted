@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes" ?>
+
+<changes>
+  <properties>
+    <author>François Dupoux</author>
+    <replyto>fdupoux at partimage dot org</replyto>
+    <date>2003-08-21</date>
+    <revision> $Revision$</revision>
+    <description>ChangeLog for QtParted</description>
+    <keywords></keywords>
+  </properties>
+
+  <title>
+    <span xml:lang="en">ChangeLog</span>
+  </title>
+
+  <item>
+    <version>0.4.0-beta2</version>
+    <date><year>2003</year><month>08</month><day>27</day></date>
+    <change>Added "disk state" (busy/available/readonly)</change>
+    <change>Added a popup of the disk device (hit "white space" of QP_ListChart)</change>
+    <change>Added a small draw of an empty disk (if it has not partition table)</change>
+    <change>Fixed create/resize fat partitions</change>
+    <change>Fixed italian localizations</change>
+    <change>Updated other localizations .ts files</change>
+    <change>Updated project file (qtparted.pro)</change>
+  </item>
+
+</changes>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes" ?>
+
+<future>
+  <properties>
+    <author>Francois Dupoux</author>
+    <replyto>fdupoux at partimage dot org</replyto>
+    <date>2003-07-16</date>
+    <revision> $Revision$</revision>
+    <description></description>
+    <keywords></keywords>
+  </properties>
+  <title>
+    <span xml:lang="en">Future</span>
+  </title>
+
+  <header>
+    Many future are planned for the future.
+  </header>
+
+  <item>
+    <state>DONE</state>
+    <feature>Add all filesystem tools</feature>
+    <feature>provide QtParted and PartGui with QtEmbedded under FrameBuffer.</feature>
+  </item>
+  <item>
+    <state>TODO</state>
+    <feature>Provide an easy hardware autodetection tool (especially for the mouse)</feature>
+  </item>
+
+</future>

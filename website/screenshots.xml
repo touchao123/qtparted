@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" >
+
+<body>
+  <properties>
+    <author>Francois Dupoux</author>
+    <replyto>fdupoux at partimage dot org</replyto>
+    <date>2003-07-17</date>
+    <revision> $Revision$</revision>
+    <description></description>
+    <keywords></keywords>
+  </properties>
+  <h1>
+    <span xml:lang='en'>Screenshots</span>
+    <span xml:lang='fr'>Captures d'écrans</span>
+  </h1>
+  <p>
+    <span xml:lang='en'>
+      <a href="images/screenshot-001-a.jpg"><img src="images/screenshot-001-b.jpg" border="1" alt=""/></a>
+    </span>
+    <span xml:lang='fr'>
+      <a href="images/screenshot-001-a.jpg"><img src="images/screenshot-001-b.jpg" border="1" alt=""/></a>
+    </span>
+  </p>
+  <p>
+    <span xml:lang='en'>
+      <a href="images/screenshot-002-a.jpg"><img src="images/screenshot-002-b.jpg" border="1" alt=""/></a>
+    </span>
+    <span xml:lang='fr'>
+      <a href="images/screenshot-002-a.jpg"><img src="images/screenshot-002-b.jpg" border="1" alt=""/></a>
+    </span>
+  </p>
+  <p>
+    <span xml:lang='en'>
+      <a href="images/screenshot-003-a.jpg"><img src="images/screenshot-003-b.jpg" border="1" alt=""/></a>
+    </span>
+    <span xml:lang='fr'>
+      <a href="images/screenshot-003-a.jpg"><img src="images/screenshot-003-b.jpg" border="1" alt=""/></a>
+    </span>
+  </p>
+</body>
+
+
