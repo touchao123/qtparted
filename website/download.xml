@@ -116,7 +116,7 @@
 	QtParted-0.4.0 a besoin de parted-1.6.6 :
 	<a href="ftp://ftp.irisa.fr/pub/gnu/parted/parted-1.6.6.tar.gz">parted-1.6.6.tar.gz</a><br/><br/>
 	Vous avez également besoin d'installer tous les outils de systèmes de fichiers (xfsprogs,
-	jfsutils, ntfsprogs, progsreiserfs, ...) afin de pouvoir travailler sur vos systèmes de fichiers favoris.
+	jfsutils, ntfsprogs, progsreiserfs,...) afin de pouvoir travailler sur vos systèmes de fichiers favoris.
 	<br/>
     </span>
   </p>
