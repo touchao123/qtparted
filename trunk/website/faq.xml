@@ -5,7 +5,7 @@
 <body>
   <properties>
     <author>Francois Dupoux</author>
-    <date>2003-08-22</date>
+    <date>2003-09-15</date>
     <revision> $Revision$</revision>
     <description>Home-page of the QtParted project </description>
     <description>for Linux</description>
@@ -346,6 +346,21 @@
       <strong>Q : Y a-t'il un moyen d'utiliser QTParted sans installer Linux ?</strong><br></br>
        A : Une solution consiste à inclure QTParted dans une distribution avec système de fichiers
        « live », par exemple Knoppix, ou SystemRescueCd.
+    </span>
+  </p>
+
+  <p>
+    <span xml:lang='en'>
+      <strong>Q: I have this configure: error: *** uuid library (libuuid) not found</strong><br></br>
+       A: uuid is a library included as a part of e2fsprogs. It's required for parted and QtParted.
+       You have to install e2fsprogs by compiling sources:<br/>
+       ./configure --prefix=/usr ; make ; make install ; make install-libs
+    </span>
+    <span xml:lang='fr'>
+      <strong>Q : J'ai une erreur dans configure: error: *** uuid library (libuuid) not found</strong><br></br>
+       A : uuid est une bibliothèque fournie avec e2fsprogs. Il faut donc installer correctement
+       le package e2fsprogs avec la commande suivante:<br/>
+       ./configure --prefix=/usr ; make ; make install ; make install-libs
     </span>
   </p>
 
