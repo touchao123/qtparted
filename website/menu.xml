@@ -19,7 +19,7 @@
 	</item>
 	<item name='features'>
 		<text lang='en'>Features</text>
-		<text lang='fr'>Fonctionnalites</text>
+		<text lang='fr'>Fonctionnalités</text>
 	</item>
 	<item name='faq'>
 		<text lang='en'>FAQ</text>
@@ -35,7 +35,7 @@
 	</item>
 	<link name='http://qtparted.sourceforge.net/bugs/'>
 		<text lang='en'>Bugs</text>
-		<text lang='fr'>Bugs</text>
+		<text lang='fr'>Bogues</text>
 	</link>
 	<link name='http://qtparted.sourceforge.net/forums/'>
 		<text lang='en'>Forums</text>

@@ -14,7 +14,6 @@
     <span xml:lang='en'>Download</span>
     <span xml:lang='fr'>Téléchargements</span>
   </h1>
-  <span xml:lang='fr'>Traducteurs recherchés pour le site (nous contacter avant de traduire).</span>
 
   <p>
   <span xml:lang='en'>
@@ -22,6 +21,31 @@
 
       <tr>
         <td width="120"><b>Unstable:</b></td>
+        <td width="413">QtParted-0.4.0-beta2</td>
+      </tr>
+
+      <tr>
+         <td width="120"><b>Sources</b></td>
+         <td width="413">
+	   <a href="http://prdownloads.sourceforge.net/qtparted/qtparted-0.4.0-beta2.tar.bz2?download">
+            <b>qtparted-0.4.0-beta2.tar.bz2</b></a>
+	</td>
+      </tr>
+
+      <tr>
+         <td width="120"><b>Debian</b></td>
+         <td width="413">
+	   <a href="http://prdownloads.sourceforge.net/qtparted/qtparted_0.4.0-beta2_i386.deb?download">
+            <b>qtparted_0.4.0-beta2_i386.deb</b></a>
+	</td>
+      </tr>
+     </table>
+  </span>
+  <span xml:lang='fr'>
+    <table class="download" width="650" border="1" cellpadding="2" cellspacing="0">
+
+      <tr>
+        <td width="120"><b>Instable :</b></td>
         <td width="413">QtParted-0.4.0-beta2</td>
       </tr>
 
@@ -51,14 +75,30 @@
       included. Next week i will be in holiday... so if you will find any kind of
       bug please email me it... but don't worry if i will not reply you soon.
       A well know bug happen when you try to work on a device "busy" (in other
-      word a device with a partition mounted). The only thing that i can suggest
+      word a device with a partition mounted). The only thing that I can suggest
       you is to commit every single operation, and reboot every time that you get
       the "commit error". This is not a bug of QTParted! It seems that the kernel
       is not able to re-read partition table of busy device. I plan to make some
-      work around in the official 0.4, but of course i cannot do miracles until
+      work around in the official 0.4, but of course I cannot do miracles until
       kernel developers will be fix this problem (and it seems that they don't
       want to do that :( ).<br/>
       I forget: you need libparted 1.6.6 to run qtparted 0.4 !
+    </span>
+    <span xml:lang='fr'>
+      <strong>Veuillez noter que cela sera une révision majeure : </strong><br/>
+      de nombreuses fonctionnalités ont été ajoutées. La semaine prochaine, je serais
+      en vacance... Aussi, si vous découvriez le moindre bogue, prévenez-moi par
+      e-mail... Mais ne vous inquiétez pas si vous ne recevez pas de réponse immédiatement.
+      Un bogue bien connu apparaît lorsque vous essayez de travailler sur un périphérique
+      « occupé » (en d'autre terme, un périphérique avec une partition montée).
+      La seule chose que je puisse vous suggérer est de valider chaque opération simple,
+      et de rebooter chaque fois qu'apparaît « erreur de validation ». Ce n'est pas un
+      bogue de QTParted ! Il semblerait que le noyau ne soit pas capable de relire la table
+      de partition du périphérique occupé. Je projette de travailler un peu dessus dans la
+      version officielle 0.4, mais, bien entendu, il ne faut pas s'attendre à un miracle
+      tant que les développeurs du noyau n'ont pas corrigé ce problème (et il semblerait
+      qu'ils n'en aient pas vraiment envie :( ).<br/>
+      J'oubliais : vous avez besoin de libparted 1.6.6 pour lancer QTParted 0.4 !
     </span>
   </p>
 
@@ -71,6 +111,16 @@
 	<a href="ftp://ftp.irisa.fr/pub/gnu/parted/parted-1.6.6.tar.gz">parted-1.6.6.tar.gz</a><br/><br/>
 	You also have to install all other fstools (xfsprogs, jfsutils, ntfsprogs,
 	progsreiserfs, ...) in order to have support for your favorite file system.
+	<br/>
+    </span>
+    <span xml:lang='fr'>
+      <strong>Compiler les sources :</strong>
+	Avant d'installer QtParted, vous devez installer GNU Parted<br/>
+	Page d'accueil : <a href="http://www.gnu.org/software/parted">http://www.gnu.org/software/parted</a><br/>
+	QtParted-0.4.0 a besoin de parted-1.6.6 :
+	<a href="ftp://ftp.irisa.fr/pub/gnu/parted/parted-1.6.6.tar.gz">parted-1.6.6.tar.gz</a><br/><br/>
+	Vous avez également besoin d'installer tous les outils de systèmes de fichiers (xfsprogs,
+	jfsutils, ntfsprogs, progsreiserfs, ...) afin de pouvoir travailler sur vos systèmes de fichiers favoris.
 	<br/>
     </span>
   </p>
