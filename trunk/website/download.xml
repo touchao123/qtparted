@@ -5,73 +5,56 @@
 <body>
   <properties>
     <author>Francois Dupoux</author>
-    <date>2003-09-03</date>
+    <date>2003-09-25</date>
     <revision> $Revision$</revision>
     <description></description>
     <keywords></keywords>
   </properties>
+
   <h1>
     <span xml:lang='en'>Download</span>
     <span xml:lang='fr'>Téléchargements</span>
   </h1>
 
   <p>
-  <span xml:lang='en'>
     <table class="download" width="650" border="1" cellpadding="2" cellspacing="0">
 
       <tr>
         <td width="120"><b>Unstable:</b></td>
-        <td width="413">QtParted-0.4.0-rc1</td>
+        <td width="413">QtParted-0.4.0</td>
       </tr>
 
       <tr>
          <td width="120"><b>Sources</b></td>
          <td width="413">
-	   <a href="http://prdownloads.sourceforge.net/qtparted/qtparted-0.4.0-rc1.tar.bz2?download">
-            <b>qtparted-0.4.0-rc1.tar.bz2</b></a>
+	   <a href="http://prdownloads.sourceforge.net/qtparted/qtparted-0.4.0.tar.bz2?download">
+            <b>qtparted-0.4.0.tar.bz2</b></a>
 	</td>
       </tr>
 
       <tr>
          <td width="120"><b>Debian</b></td>
          <td width="413">
-	   <a href="http://prdownloads.sourceforge.net/qtparted/qtparted_0.4.0-rc1_i386.deb?download">
-            <b>qtparted_0.4.0-rc1_i386.deb</b></a>
+	   <a href="http://prdownloads.sourceforge.net/qtparted/qtparted_0.4.0_i386.deb?download">
+            <b>qtparted_0.4.0_i386.deb</b></a>
 	</td>
       </tr>
-     </table>
-  </span>
-  <span xml:lang='fr'>
-    <table class="download" width="650" border="1" cellpadding="2" cellspacing="0">
 
       <tr>
-        <td width="120"><b>Instable :</b></td>
-        <td width="413">QtParted-0.4.0-rc1</td>
-      </tr>
-
-      <tr>
-         <td width="120"><b>Sources</b></td>
+         <td width="120"><b>Rpm</b></td>
          <td width="413">
-	   <a href="http://prdownloads.sourceforge.net/qtparted/qtparted-0.4.0-rc1.tar.bz2?download">
-            <b>qtparted-0.4.0-rc1.tar.bz2</b></a>
+	   <a href="http://qtparted.sourceforge.net/forums/viewtopic.php?t=36">
+            <b>web page with RPMS made by erkaN</b></a>
 	</td>
       </tr>
 
-      <tr>
-         <td width="120"><b>Debian</b></td>
-         <td width="413">
-	   <a href="http://prdownloads.sourceforge.net/qtparted/qtparted_0.4.0-rc1_i386.deb?download">
-            <b>qtparted_0.4.0-rc1_i386.deb</b></a>
-	</td>
-      </tr>
      </table>
-  </span>
   </p>
 
   <p>
     <span xml:lang='en'>
       <strong>Please note that this is will be a major release: </strong><br/>
-      a lot of new features are included. 
+      a lot of new features are included.
       A well know bug happen when you try to work on a device "busy" (in other
       word a device with a partition mounted). The only thing that I can suggest
       you is to commit every single operation, and reboot every time that you get
