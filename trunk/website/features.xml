@@ -14,7 +14,6 @@
     <span xml:lang='en'>Features</span>
     <span xml:lang='fr'>Fonctionnalités</span>
   </h1>
-  <span xml:lang='fr'>Traducteurs recherchés pour le site (nous contacter avant de traduire).</span>
 
   <p>
     <span xml:lang='en'>
@@ -22,6 +21,12 @@
 	Even if libparted does not support these filesystems QTParted can handle it.
 	Of course it do it using external tools. This are the latest support status of
 	this filesystems:
+    </span>
+    <span xml:lang='fr'>
+      <strong>Note à propos du fonctionnement de REISERFS/NTFS/JFS/EXT3 dans QTParted :</strong>
+	Même si libparted ne gère pas ces systèmes de fichiers, QTParted le fait.
+	Bien entendu, QTParted utilise des outils externes. Voici le dernier état des fonctionnalités
+	sur ces systèmes de fichiers :
     </span>
   </p>
 
@@ -68,6 +73,49 @@
       </tr>
     </table>
   </span>
+  <span xml:lang='fr'>
+    <table class="download" width="100%" border="1" cellpadding="2" cellspacing="0">
+      <tr>
+        <td width="100"><b>Système de fichiers</b></td>
+        <td width="100"><b>Création</b></td>
+        <td width="100"><b>Redimensionnement</b></td>
+        <td width="600"><b>Notes</b></td>
+      </tr>
+      <tr>
+        <td width="100">Ntfs</td>
+        <td width="100"><center>X</center></td>
+        <td width="100"><center>X</center></td>
+        <td width="600">Requis : mkntfs et ntfsresize
+	    (<a href="http://linux-ntfs.sourceforge.net">linux-ntfs</a>)</td>
+      </tr>
+      <tr>
+        <td width="100">ReiserFS</td>
+        <td width="100"><center>X</center></td>
+        <td width="100"><center>X</center></td>
+        <td width="600">Requis par libparted : (<a href="http://www.namesys.com">progsreiserfs</a>).
+	Attention : progsreiserfs n'est pas reisergsprogs !</td>
+      </tr>
+      <tr>
+        <td width="100">JFS</td>
+        <td width="100"><center>X</center></td>
+        <td width="100"> </td>
+        <td width="600">Requis : mkfs.jfs (<a href="http://oss.software.ibm.com/jfs/">jfsutils</a>)</td>
+      </tr>
+      <tr>
+        <td width="100">Ext2/Ext3</td>
+        <td width="100"><center>X</center></td>
+        <td width="100"> </td>
+        <td width="600">Requis : mkfs.ext3 (<a href="http://e2fsprogs.sourceforge.net">e2fsprogs</a>)</td>
+      </tr>
+      <tr>
+        <td width="100">XFS</td>
+        <td width="100"><center>X</center></td>
+        <td width="100"> </td>
+        <td width="600">Requis : mkfs.xfs (<a href="http://oss.sgi.com/projects/xfs/">xfsprogs</a>)</td>
+      </tr>
+    </table>
+  </span>
   </p>
 
 </body>
+
