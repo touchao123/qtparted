@@ -5,7 +5,7 @@
 <body>
   <properties>
     <author>Francois Dupoux</author>
-    <date>2004-03-01</date>
+    <date>2004-03-14</date>
     <revision> $Revision$</revision>
     <description></description>
     <keywords></keywords>
@@ -85,7 +85,7 @@
       <strong>Compiling sources:</strong>
 	Before installing QtParted, you have to install a version of GNU Parted<br/>
 	Homepage: <a href="http://www.gnu.org/software/parted">http://www.gnu.org/software/parted</a><br/>
-	QtParted-0.4.1 need parted-1.6.6:
+	QtParted-0.4 needs parted-1.6.6:
 	<a href="ftp://ftp.irisa.fr/pub/gnu/parted/parted-1.6.6.tar.gz">parted-1.6.6.tar.gz</a><br/><br/>
 	You also have to install all other fstools (xfsprogs, jfsutils, ntfsprogs,
 	progsreiserfs, ...) in order to have support for your favorite file system.<br/><br/>
@@ -94,7 +94,7 @@
 	variable with a command like this: "export QTDIR=/usr/qt/3-embedded/ ; ./configure"<br/><br/>
 	If you want to use the Qt-embedded version instead of Qt-x11, you must add an option to
 	configure: <br/> "./configure --enable-embedded".<br/><br/>
-	Qt-3.0 or better is required for compiling QtParted, but Qt-3.2 is recommended. If you
+	Qt-3.0 or better is required for compiling QtParted, but Qt-3.3 is recommended. If you
 	have compilation problems, please visit the
 	<a href="http://qtparted.sourceforge.net/forums/viewforum.php?f=9">forums</a>.
     </span>
@@ -103,7 +103,7 @@
 	Avant d'installer QtParted, vous devez installer GNU Parted<br/>
 	Page d'accueil :
 	<a href="http://www.gnu.org/software/parted">http://www.gnu.org/software/parted</a><br/>
-	QtParted-0.4.1 a besoin de parted-1.6.6 :
+	QtParted-0.4 a besoin de parted-1.6.6 :
 	<a href="ftp://ftp.irisa.fr/pub/gnu/parted/parted-1.6.6.tar.gz">parted-1.6.6.tar.gz</a><br/>
 	Vous avez également besoin d'installer tous les outils de systèmes de fichiers (xfsprogs,
 	jfsutils, ntfsprogs, progsreiserfs,...) afin de pouvoir travailler sur vos systèmes de
@@ -115,7 +115,7 @@
         "export QTDIR=/usr/qt/3-embedded/ ; ./configure"<br/><br/>
 	Pour compiler QtParted avec Qt-embedded au lieu de Qt-x11, vous devez ajouter une option
 	à configure:<br/> "./configure --enable-embedded".<br/><br/>
-	Qt-3.0 ou plus récent est nécessaire pour compiler QtParted, mais Qt-3.2 est recommandé.
+	Qt-3.0 ou plus récent est nécessaire pour compiler QtParted, mais Qt-3.3 est recommandé.
 	En cas de problème pendant la compilation, et si vous avez installé les dépendances
 	nécessaires, merci de visiter les
 	<a href="http://qtparted.sourceforge.net/forums/viewforum.php?f=9">forums</a>.
