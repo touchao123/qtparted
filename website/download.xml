@@ -5,7 +5,7 @@
 <body>
   <properties>
     <author>Francois Dupoux</author>
-    <date>2003-08-21</date>
+    <date>2003-09-03</date>
     <revision> $Revision$</revision>
     <description></description>
     <keywords></keywords>
@@ -111,7 +111,10 @@
 	("env | grep QTDIR" give you the current value). If it's not well defined, redefine this
 	variable with a command like this: "export QTDIR=/usr/qt/3-embedded/ ; ./configure"<br/><br/>
 	If you want to use the Qt-embedded version instead of Qt-x11, you must add an option to
-	configure: "./configure --enable-embedded".
+	configure: <br/> "./configure --enable-embedded".<br/><br/>
+	Qt-3.0 or better is required for compiling QtParted, but Qt-3.2 is recommended. If you
+	have compilation problems, please visit the
+	<a href="http://qtparted.sourceforge.net/forums/viewforum.php?f=9">forums</a>.
     </span>
     <span xml:lang='fr'>
       <strong>Compiler les sources :</strong>
@@ -129,8 +132,11 @@
 	lui donner la bonne valeur avec une commande qui ressemble à ceci:
         "export QTDIR=/usr/qt/3-embedded/ ; ./configure"<br/><br/>
 	Pour compiler QtParted avec Qt-embedded au lieu de Qt-x11, vous devez ajouter une option
-	à configure: "./configure --enable-embedded".
-	<br/>
+	à configure:<br/> "./configure --enable-embedded".<br/><br/>
+	Qt-3.0 ou plus récent est nécessaire pour compiler QtParted, mais Qt-3.2 est recommandé.
+	En cas de problème pendant la compilation, et si vous avez installé les dépendances
+	nécessaires, merci de visiter les
+	<a href="http://qtparted.sourceforge.net/forums/viewforum.php?f=9">forums</a>.
     </span>
   </p>
 
