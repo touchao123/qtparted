@@ -15,6 +15,12 @@
 
 
   <item>
+    <version>0.4.0</version>
+    <date><year>2003</year><month>12</month><day>06</day></date>
+    <change>Fixed compile problems</change>
+    <change>Fixed minor bugs</change>
+  </item>
+  <item>
     <version>0.4.0-rc1</version>
     <date><year>2003</year><month>09</month><day>03</day></date>
     <change>Fixed all localizations</change>

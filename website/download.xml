@@ -21,22 +21,22 @@
 
       <tr>
         <td width="120"><b>Unstable:</b></td>
-        <td width="413">QtParted-0.4.0</td>
+        <td width="413">QtParted-0.4.1</td>
       </tr>
 
       <tr>
          <td width="120"><b>Sources</b></td>
          <td width="413">
-	   <a href="http://prdownloads.sourceforge.net/qtparted/qtparted-0.4.0.tar.bz2?download">
-            <b>qtparted-0.4.0.tar.bz2</b></a>
+	   <a href="http://prdownloads.sourceforge.net/qtparted/qtparted-0.4.1.tar.bz2?download">
+            <b>qtparted-0.4.1.tar.bz2</b></a>
 	</td>
       </tr>
 
       <tr>
          <td width="120"><b>Debian</b></td>
          <td width="413">
-	   <a href="http://prdownloads.sourceforge.net/qtparted/qtparted_0.4.0_i386.deb?download">
-            <b>qtparted_0.4.0_i386.deb</b></a>
+	   <a href="http://prdownloads.sourceforge.net/qtparted/qtparted_0.4.1_i386.deb?download">
+            <b>qtparted_0.4.1_i386.deb</b></a>
 	</td>
       </tr>
 
@@ -86,7 +86,7 @@
       <strong>Compiling sources:</strong>
 	Before installing QtParted, you have to install a version of GNU Parted<br/>
 	Homepage: <a href="http://www.gnu.org/software/parted">http://www.gnu.org/software/parted</a><br/>
-	QtParted-0.4.0 need parted-1.6.6:
+	QtParted-0.4.1 need parted-1.6.6:
 	<a href="ftp://ftp.irisa.fr/pub/gnu/parted/parted-1.6.6.tar.gz">parted-1.6.6.tar.gz</a><br/><br/>
 	You also have to install all other fstools (xfsprogs, jfsutils, ntfsprogs,
 	progsreiserfs, ...) in order to have support for your favorite file system.<br/><br/>
@@ -104,7 +104,7 @@
 	Avant d'installer QtParted, vous devez installer GNU Parted<br/>
 	Page d'accueil :
 	<a href="http://www.gnu.org/software/parted">http://www.gnu.org/software/parted</a><br/>
-	QtParted-0.4.0 a besoin de parted-1.6.6 :
+	QtParted-0.4.1 a besoin de parted-1.6.6 :
 	<a href="ftp://ftp.irisa.fr/pub/gnu/parted/parted-1.6.6.tar.gz">parted-1.6.6.tar.gz</a><br/>
 	Vous avez également besoin d'installer tous les outils de systèmes de fichiers (xfsprogs,
 	jfsutils, ntfsprogs, progsreiserfs,...) afin de pouvoir travailler sur vos systèmes de
