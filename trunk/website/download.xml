@@ -21,14 +21,14 @@
 
       <tr>
         <td width="120"><b>Unstable:</b></td>
-        <td width="413">QtParted-0.4.1</td>
+        <td width="413">QtParted-0.4.3</td>
       </tr>
 
       <tr>
          <td width="120"><b>Sources</b></td>
          <td width="413">
-	   <a href="http://prdownloads.sourceforge.net/qtparted/qtparted-0.4.1.tar.bz2?download">
-            <b>qtparted-0.4.1.tar.bz2</b></a>
+	   <a href="http://prdownloads.sourceforge.net/qtparted/qtparted-0.4.3.tar.bz2?download">
+            <b>qtparted-0.4.3.tar.bz2</b></a>
 	</td>
       </tr>
 
@@ -50,36 +50,6 @@
 
      </table>
   </p>
-
-  <p>
-    <table class="download" width="650" border="1" cellpadding="2" cellspacing="0">
-      <tr>
-        <td width="120"><b>Testing:</b></td>
-        <td width="413">QtParted-0.4.2_pre1</td>
-      </tr>
-      <tr>
-         <td width="120"><b>Sources</b></td>
-         <td width="413">
-	   <a href="http://qtparted.sourceforge.net/download/qtparted-0.4.2_pre2.tar.bz2">
-            <b>qtparted-0.4.2_pre2.tar.bz2</b></a>
-	</td>
-      </tr>
-      <tr>
-         <td width="120"><b>Changes</b></td>
-         <td width="413">This is a testing version. It aims to work for Qt-3.3, because version 0.4.1
-	 cannot compile with Qt-3.3. No other change for now. If other changes have to be made before final 0.4.2,
-	 please send me the patch against sources to fdupoux at free dot fr. This version aims to solve
-	 all compilation problems encountered with version 0.4.1 and Qt-3.3. Please, send me bug reports
-	 if you cannot compile, and your Qt installation is complete (with headers and libraries).
-	</td>
-      </tr>
-      <tr>
-         <td width="120"><b>Gentoo bug</b></td>
-         <td width="413"><a href="http://bugs.gentoo.org/show_bug.cgi?id=42927">Gentoo bug related to QtParted and Qt-3.3.</a></td>
-      </tr>
-     </table>
-  </p>
-
   <p>
     <span xml:lang='en'>
       <strong>Please note that this is will be a major release: </strong><br/>
