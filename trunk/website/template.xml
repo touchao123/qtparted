@@ -5,7 +5,6 @@
 <body>
   <properties>
     <author>Francois Dupoux</author>
-    <replyto>fdupoux at partimage dot org</replyto>
     <date>EDITDATE</date>
     <revision> $Revision$</revision>
     <description>Partition Image project for Linux</description>
