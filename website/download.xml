@@ -71,9 +71,7 @@
   <p>
     <span xml:lang='en'>
       <strong>Please note that this is will be a major release: </strong><br/>
-      a lot of new features are
-      included. Next week i will be in holiday... so if you will find any kind of
-      bug please email me it... but don't worry if i will not reply you soon.
+      a lot of new features are included. 
       A well know bug happen when you try to work on a device "busy" (in other
       word a device with a partition mounted). The only thing that I can suggest
       you is to commit every single operation, and reboot every time that you get
@@ -86,9 +84,7 @@
     </span>
     <span xml:lang='fr'>
       <strong>Veuillez noter que cela sera une révision majeure : </strong><br/>
-      de nombreuses fonctionnalités ont été ajoutées. La semaine prochaine, je serais
-      en vacance... Aussi, si vous découvriez le moindre bogue, prévenez-moi par
-      e-mail... Mais ne vous inquiétez pas si vous ne recevez pas de réponse immédiatement.
+      de nombreuses fonctionnalités ont été ajoutées.
       Un bogue bien connu apparaît lorsque vous essayez de travailler sur un périphérique
       « occupé » (en d'autre terme, un périphérique avec une partition montée).
       La seule chose que je puisse vous suggérer est de valider chaque opération simple,
