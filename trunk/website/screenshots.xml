@@ -14,30 +14,43 @@
     <span xml:lang='en'>Screenshots</span>
     <span xml:lang='fr'>Captures d'écrans</span>
   </h1>
-  <p>
-    <span xml:lang='en'>
+
+  <p><table width="650" border="0" cellpadding="2" cellspacing="0">
+   <span xml:lang='en'>
       <a href="images/screenshot-001-a.jpg"><img src="images/screenshot-001-b.jpg" border="1" alt=""/></a>
     </span>
     <span xml:lang='fr'>
       <a href="images/screenshot-001-a.jpg"><img src="images/screenshot-001-b.jpg" border="1" alt=""/></a>
     </span>
-  </p>
-  <p>
-    <span xml:lang='en'>
+  </table></p>
+
+  <p><table width="650" border="0" cellpadding="2" cellspacing="0">
+   <span xml:lang='en'>
       <a href="images/screenshot-002-a.jpg"><img src="images/screenshot-002-b.jpg" border="1" alt=""/></a>
     </span>
     <span xml:lang='fr'>
       <a href="images/screenshot-002-a.jpg"><img src="images/screenshot-002-b.jpg" border="1" alt=""/></a>
     </span>
-  </p>
-  <p>
-    <span xml:lang='en'>
+  </table></p>
+
+  <p><table width="650" border="0" cellpadding="2" cellspacing="0">
+   <span xml:lang='en'>
       <a href="images/screenshot-003-a.jpg"><img src="images/screenshot-003-b.jpg" border="1" alt=""/></a>
     </span>
     <span xml:lang='fr'>
       <a href="images/screenshot-003-a.jpg"><img src="images/screenshot-003-b.jpg" border="1" alt=""/></a>
     </span>
-  </p>
+  </table></p>
+
+  <p><table width="650" border="0" cellpadding="2" cellspacing="0">
+   <span xml:lang='en'>
+      <a href="images/screenshot-004-a.jpg"><img src="images/screenshot-004-b.jpg" border="1" alt=""/></a>
+    </span>
+    <span xml:lang='fr'>
+      <a href="images/screenshot-004-a.jpg"><img src="images/screenshot-004-b.jpg" border="1" alt=""/></a>
+    </span>
+  </table></p>
+
 </body>
 
 

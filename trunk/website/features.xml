@@ -58,7 +58,7 @@
         <td width="100">Ext2/Ext3</td>
         <td width="100"><center>X</center></td>
         <td width="100"> </td>
-        <td width="600">Needed mkfs.ext3 (<a href="http://e2fsprog.sourceforge.net">e2fsprogs</a>)</td>
+        <td width="600">Needed mkfs.ext3 (<a href="http://e2fsprogs.sourceforge.net">e2fsprogs</a>)</td>
       </tr>
       <tr>
         <td width="100">XFS</td>
