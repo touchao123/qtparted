@@ -27,7 +27,7 @@
     </span>
 
     <span xml:lang='fr'>
-      <strong>Description&amp;nbsp;:</strong> QTParted est un clone de Partition Magic écrit
+      <strong>Description :</strong> QTParted est un clone de Partition Magic écrit
       en C++ en utilisant la bibliothèque graphique Qt.
     </span>
   </p>
