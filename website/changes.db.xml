@@ -13,13 +13,26 @@
     <span xml:lang="en">ChangeLog</span>
   </title>
 
-
+  <item>
+    <version>0.4.3</version>
+    <date><year>2004</year><month>03</month><day>13</day></date>
+    <change>Better support for NTFS-Resize, especially version 1.9.0</change>
+    <change>Fixed a crash</change>
+  </item>
+  
+  <item>
+    <version>0.4.2</version>
+    <date><year>2004</year><month>03</month><day>04</day></date>
+    <change>Fixed compilation problems with Qt-3.3</change>
+  </item>
+  
   <item>
     <version>0.4.0</version>
     <date><year>2003</year><month>12</month><day>06</day></date>
     <change>Fixed compile problems</change>
     <change>Fixed minor bugs</change>
   </item>
+  
   <item>
     <version>0.4.0-rc1</version>
     <date><year>2003</year><month>09</month><day>03</day></date>
@@ -28,6 +41,7 @@
     <change>Fixed configure script</change>
     <change>Added debug log in /var/log (switch --log, default=1)</change>
   </item>
+  
   <item>
     <version>0.4.0-beta2</version>
     <date><year>2003</year><month>08</month><day>27</day></date>
