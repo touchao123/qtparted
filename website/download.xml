@@ -5,7 +5,7 @@
 <body>
   <properties>
     <author>Francois Dupoux</author>
-    <date>2004-03-14</date>
+    <date>2004-04-25</date>
     <revision> $Revision$</revision>
     <description></description>
     <keywords></keywords>
@@ -21,14 +21,14 @@
 
       <tr>
         <td width="120"><b>Unstable:</b></td>
-        <td width="413">QtParted-0.4.3</td>
+        <td width="413">QtParted-0.4.4</td>
       </tr>
 
       <tr>
          <td width="120"><b>Sources</b></td>
          <td width="413">
-	   <a href="http://prdownloads.sourceforge.net/qtparted/qtparted-0.4.3.tar.bz2?download">
-            <b>qtparted-0.4.3.tar.bz2</b></a>
+	   <a href="http://prdownloads.sourceforge.net/qtparted/qtparted-0.4.4.tar.bz2?download">
+            <b>qtparted-0.4.4.tar.bz2</b></a>
 	</td>
       </tr>
 
@@ -62,7 +62,7 @@
       work around in the official 0.4, but of course I cannot do miracles until
       kernel developers will be fix this problem (and it seems that they don't
       want to do that :( ).<br/>
-      I forget: you need libparted 1.6.6 to run qtparted 0.4 !
+      I forget: you needs libparted 1.6.6 (or newer) to run qtparted 0.4 !
     </span>
     <span xml:lang='fr'>
       <strong>Veuillez noter que cela sera une révision majeure : </strong><br/>
@@ -76,7 +76,7 @@
       version officielle 0.4, mais, bien entendu, il ne faut pas s'attendre à un miracle
       tant que les développeurs du noyau n'ont pas corrigé ce problème (et il semblerait
       qu'ils n'en aient pas vraiment envie :( ).<br/>
-      J'oubliais : vous avez besoin de libparted 1.6.6 pour lancer QTParted 0.4 !
+      J'oubliais : vous avez besoin de libparted 1.6.6 (ou plus récent) pour lancer QTParted 0.4 !
     </span>
   </p>
 
@@ -85,8 +85,8 @@
       <strong>Compiling sources:</strong>
 	Before installing QtParted, you have to install a version of GNU Parted<br/>
 	Homepage: <a href="http://www.gnu.org/software/parted">http://www.gnu.org/software/parted</a><br/>
-	QtParted-0.4 needs parted-1.6.6:
-	<a href="ftp://ftp.irisa.fr/pub/gnu/parted/parted-1.6.6.tar.gz">parted-1.6.6.tar.gz</a><br/><br/>
+	QtParted-0.4 needs parted-1.6:
+	<a href="ftp://ftp.cs.columbia.edu/archives/gnu/prep/parted/">download parted-1.6</a><br/><br/>
 	You also have to install all other fstools (xfsprogs, jfsutils, ntfsprogs,
 	progsreiserfs, ...) in order to have support for your favorite file system.<br/><br/>
 	Before running ./configure, check your QTDIR environment variable. It defines your Qt directory.
@@ -103,8 +103,8 @@
 	Avant d'installer QtParted, vous devez installer GNU Parted<br/>
 	Page d'accueil :
 	<a href="http://www.gnu.org/software/parted">http://www.gnu.org/software/parted</a><br/>
-	QtParted-0.4 a besoin de parted-1.6.6 :
-	<a href="ftp://ftp.irisa.fr/pub/gnu/parted/parted-1.6.6.tar.gz">parted-1.6.6.tar.gz</a><br/>
+	QtParted-0.4 a besoin de parted-1.6 :
+	<a href="ftp://ftp.cs.columbia.edu/archives/gnu/prep/parted/">télécharger parted-1.6</a><br/>
 	Vous avez également besoin d'installer tous les outils de systèmes de fichiers (xfsprogs,
 	jfsutils, ntfsprogs, progsreiserfs,...) afin de pouvoir travailler sur vos systèmes de
 	fichiers favoris.<br/><br/>

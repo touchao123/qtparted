@@ -3,7 +3,7 @@
 <changes>
   <properties>
     <author>François Dupoux</author>
-    <date>2003-08-21</date>
+    <date>2004-04-25</date>
     <revision> $Revision$</revision>
     <description>ChangeLog for QtParted</description>
     <keywords></keywords>
@@ -13,6 +13,14 @@
     <span xml:lang="en">ChangeLog</span>
   </title>
 
+  <item>
+    <version>0.4.4</version>
+    <date><year>2004</year><month>04</month><day>25</day></date>
+    <change>Added hidden flags for FAT/NTFS filesystem</change>
+    <change>Added support for read label (François Dupoux)</change>
+    <change>Added Catalan translation (Dani Hernandez)</change>
+  </item>
+  
   <item>
     <version>0.4.3</version>
     <date><year>2004</year><month>03</month><day>13</day></date>
