@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd" >
+
+<body>
+  <properties>
+    <author>Francois Dupoux</author>
+    <date>2003-08-21</date>
+    <revision> $Revision$</revision>
+    <description></description>
+    <keywords></keywords>
+  </properties>
+  <h1>
+    <span xml:lang='en'>Links</span>
+    <span xml:lang='fr'>Liens</span>
+  </h1>
+  <span xml:lang='fr'>Traducteurs recherchés pour cette page.</span>
+
+  <p>
+  <span xml:lang='en'>
+    <table class="download" width="450" border="0" cellpadding="2" cellspacing="0">
+
+      <tr>
+        <td width="120"><b>Parted:</b>
+	   <a href="http://www.gnu.org/software/parted">http://www.gnu.org/software/parted</a><br/>
+	   <i>The engine that is behind the GUI of QTParted.</i>
+	</td>
+      </tr>
+
+      <tr>
+        <td width="120"><b>Progs ReiserFS:</b>
+	   <a href="http://reiserfs.osdn.org.ua">http://reiserfs.osdn.org.ua</a><br/>
+	   <i>Libs used by Parted to handle reiserfs.</i>
+	</td>
+      </tr>
+
+      <tr>
+        <td width="120"><b>NTFSResize:</b>
+	   <a href="http://mlf.linux.rulez.org/mlf/ezaz/ntfsresize.html">
+	   http://mlf.linux.rulez.org/mlf/ezaz/ntfsresize.html</a><br/>
+	   <i>An external program that is used by QTParted to handle NTFS filesystem.</i>
+	</td>
+      </tr>
+
+      <tr>
+        <td width="120"><b>Knoppix:</b>
+	   <a href="http://www.knopper.net/knoppix/index-en.html">
+	   http://www.knopper.net/knoppix/index-en.html</a><br/>
+	   <i>A live distribution (imho the best live distribution) that has QTParted.</i>
+	</td>
+      </tr>
+
+      <tr>
+        <td width="120"><b>Kurumin:</b>
+	   <a href=" http://www.guiadohardware.net/linux/kurumin/index.asp">
+	    http://www.guiadohardware.net/linux/kurumin/index.asp</a><br/>
+	   <i>A live distribution (based on Knoppix) that use QTParted for handle partition resize.</i>
+	</td>
+      </tr>
+
+      <tr>
+        <td width="120"><b>Paud:</b>
+	   <a href="http://paud.sourceforge.net">http://paud.sourceforge.net</a><br/>
+	   <i>Parted and disks utilities.</i>
+	</td>
+      </tr>
+
+      <tr>
+        <td width="120"><b>Powerquest Partition Magic:</b>
+	   <a href="http://www.powerquest.com/partitionmagic">
+	   http://www.powerquest.com/partitionmagic</a><br/>
+	   <i>The tool that inspired QTParted.</i>
+	</td>
+      </tr>
+
+      <tr>
+        <td width="120"><b>Sourceforge:</b>
+	   <a href="http://sourceforge.net">http://sourceforge.net</a><br/>
+	   <i>Where i decided to keep my pages.</i>
+	</td>
+      </tr>
+
+      <tr>
+        <td width="120"><b>NewRpms:</b>
+	   <a href="http://newrpms.sunsite.dk">http://newrpms.sunsite.dk</a><br/>
+	   <i>Here you can find rpm of QTParted.</i>
+	</td>
+      </tr>
+
+      <tr>
+        <td width="120"><b>SystemRescueCD:</b>
+	   <a href="http://www.systemrescuecd.org">http://www.systemrescuecd.org</a><br/>
+	   <i>Very cool live cd with all stuff that you need to rescue data from an hd...
+	   and also qtparted!</i>
+	</td>
+      </tr>
+
+      <tr>
+        <td width="120"><b>QTParted:</b>
+	   <a href="http://qtparted.sourceforge.net">http://qtparted.sourceforge.net</a><br/>
+	   <i>Of course this is my favorite Partition software :-)</i>
+	</td>
+      </tr>
+
+     </table>
+  </span>
+  </p>
+
+ </body>
