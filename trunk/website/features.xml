@@ -50,7 +50,7 @@
         <td width="100">ReiserFS</td>
         <td width="100"><center>X</center></td>
         <td width="100"><center>X</center></td>
-        <td width="600">Needed (<a href="http://www.namesys.com">progsreiserfs</a>) by libparted.
+        <td width="600">Needed (<a href="http://reiserfs.osdn.org.ua/">progsreiserfs</a>) by libparted.
 	Warning: progsreiserfs is not reisergsprogs!</td>
       </tr>
       <tr>
