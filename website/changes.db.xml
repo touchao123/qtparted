@@ -3,7 +3,6 @@
 <changes>
   <properties>
     <author>François Dupoux</author>
-    <replyto>fdupoux at partimage dot org</replyto>
     <date>2003-08-21</date>
     <revision> $Revision$</revision>
     <description>ChangeLog for QtParted</description>
