@@ -106,17 +106,30 @@
 	QtParted-0.4.0 need parted-1.6.6:
 	<a href="ftp://ftp.irisa.fr/pub/gnu/parted/parted-1.6.6.tar.gz">parted-1.6.6.tar.gz</a><br/><br/>
 	You also have to install all other fstools (xfsprogs, jfsutils, ntfsprogs,
-	progsreiserfs, ...) in order to have support for your favorite file system.
-	<br/>
+	progsreiserfs, ...) in order to have support for your favorite file system.<br/><br/>
+	Before running ./configure, check your QTDIR environment variable. It defines your Qt directory.
+	("env | grep QTDIR" give you the current value). If it's not well defined, redefine this
+	variable with a command like this: "export QTDIR=/usr/qt/3-embedded/ ; ./configure"<br/><br/>
+	If you want to use the Qt-embedded version instead of Qt-x11, you must add an option to
+	configure: "./configure --enable-embedded".
     </span>
     <span xml:lang='fr'>
       <strong>Compiler les sources :</strong>
 	Avant d'installer QtParted, vous devez installer GNU Parted<br/>
-	Page d'accueil : <a href="http://www.gnu.org/software/parted">http://www.gnu.org/software/parted</a><br/>
+	Page d'accueil :
+	<a href="http://www.gnu.org/software/parted">http://www.gnu.org/software/parted</a><br/>
 	QtParted-0.4.0 a besoin de parted-1.6.6 :
-	<a href="ftp://ftp.irisa.fr/pub/gnu/parted/parted-1.6.6.tar.gz">parted-1.6.6.tar.gz</a><br/><br/>
+	<a href="ftp://ftp.irisa.fr/pub/gnu/parted/parted-1.6.6.tar.gz">parted-1.6.6.tar.gz</a><br/>
 	Vous avez également besoin d'installer tous les outils de systèmes de fichiers (xfsprogs,
-	jfsutils, ntfsprogs, progsreiserfs,...) afin de pouvoir travailler sur vos systèmes de fichiers favoris.
+	jfsutils, ntfsprogs, progsreiserfs,...) afin de pouvoir travailler sur vos systèmes de
+	fichiers favoris.<br/><br/>
+	Avant de lancer ./configure, vous devez vérifier que la variable d'environnement QTDIR
+	est correctement définie. Celle-ci désigne le dossier d'installation de Qt.
+	("env | grep QTDIR" vous donne la valeur actuelle). Si elle est mal définie, vous pouvez
+	lui donner la bonne valeur avec une commande qui ressemble à ceci:
+        "export QTDIR=/usr/qt/3-embedded/ ; ./configure"<br/><br/>
+	Pour compiler QtParted avec Qt-embedded au lieu de Qt-x11, vous devez ajouter une option
+	à configure: "./configure --enable-embedded".
 	<br/>
     </span>
   </p>
