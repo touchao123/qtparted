@@ -132,7 +132,7 @@
         <td width="120"><b>Knoppix :</b>
 	   <a href="http://www.knopper.net/knoppix/index-en.html">
 	   http://www.knopper.net/knoppix/index-en.html</a><br/>
-	   <i>Une distribution démo (AMHA la meilleure) qui intègre QTParted.</i>
+	   <i>Une distribution démo, utilisable à partir d'un CDROM, (AMHA la meilleure) qui intègre QTParted.</i>
 	</td>
       </tr>
 
@@ -140,7 +140,7 @@
         <td width="120"><b>Kurumin :</b>
 	   <a href=" http://www.guiadohardware.net/linux/kurumin/index.asp">
 	    http://www.guiadohardware.net/linux/kurumin/index.asp</a><br/>
-	   <i>Une distribution démo (basée sur Knoppix) qui utilise QTParted pour gérer le redimensionnement des partitions.</i>
+	   <i>Une autre distribution démo (basée sur Knoppix) qui utilise QTParted pour gérer le redimensionnement des partitions.</i>
 	</td>
       </tr>
 
@@ -193,4 +193,3 @@
   </p>
 
  </body>
-
