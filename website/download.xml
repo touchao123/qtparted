@@ -140,4 +140,22 @@
     </span>
   </p>
 
+  <p>
+    <span xml:lang='en'>
+      You may have the following error:
+      <strong>configure: error: *** uuid library (libuuid) not found</strong><br/>
+       Uuid is a library included as a part of e2fsprogs. It's required for parted and QtParted.
+       You have to install e2fsprogs by compiling sources:<br/>
+       ./configure --prefix=/usr ; make ; make install ; make install-libs
+    </span>
+    <span xml:lang='fr'>
+       Il se peut que vous rencontriez l'erreur suivante:<br/>
+      <strong>configure: error: *** uuid library (libuuid) not found</strong><br/>
+       Iuid est une bibliothèque fournie avec e2fsprogs. Il faut donc installer correctement
+       le package e2fsprogs avec la commande suivante:<br/>
+       ./configure --prefix=/usr ; make ; make install ; make install-libs
+    </span>
+  </p>
+
+
 </body>
